@@ -80,5 +80,5 @@ print(
 )  # Returns a string that is all strings within our set (in this case a list) concatinated
 
 print(
-    x.endswith("d")
+    x.endswith("o")
 )  # Returns a boolean based upon wheter the last characters of string match substring
